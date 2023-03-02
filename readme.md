@@ -4,6 +4,9 @@ La idea de este proyecto es practicar y ejemplizar todos los conceptos que manej
 
 - useState
 - useEffect
+- useMemo
+- useLayoutEffect
+
 
 Tambien se utilizaran hooks personalizados.
 
